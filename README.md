@@ -1,7 +1,7 @@
 <img src="assets/logo.png" align="right" />
 
 # Principia Computer Science
-Your Name
+Jay Ogbonna
 
 LinkedIn Profile: https://www.linkedin.com/in/your-name-here/
 
